@@ -1,0 +1,2 @@
+const a=["Var(X)=E(X^2)-[E(X)]^2","Var(X)=E(X^2)-(E(X))^2","Var(X)=E[X^2]-(E[X])^2","Var(X)=E[(X-\\mu)^2]","\\mathrm{Var}(Z)=\\mathbb{E}[Z^2]-(\\mathbb{E}[Z])^2","\\mathrm{Var}(aX+b)=a^2\\mathrm{Var}(X)","Var(X) = p(1-p)","Var(X)=np(1-p)","Var(X)=\\frac{(b-a)^2}{12}","Var(X)=\\lambda","Var(\\bar{X})=\\frac{\\sigma^2}{n}","Var(Y)=a^2 Var(X)","Var(\\Delta)=2\\sigma^2(1-r)"];export{a as default};
+//# sourceMappingURL=8daf02a9-dwor18ra47ykjugw.js.map

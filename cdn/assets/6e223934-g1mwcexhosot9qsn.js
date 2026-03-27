@@ -1,0 +1,2 @@
+import{c as a}from"./f0a0a9e6-e72v481m59zpg0f3.js";import"./2340486e-iyoyluj31h1sa6y8.js";const k=a("CalendarClock",[["path",{d:"M21 7.5V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h3.5",key:"1osxxc"}],["path",{d:"M16 2v4",key:"4m81vk"}],["path",{d:"M8 2v4",key:"1cmpym"}],["path",{d:"M3 10h5",key:"r794hk"}],["path",{d:"M17.5 17.5 16 16.3V14",key:"akvzfd"}],["circle",{cx:"16",cy:"16",r:"6",key:"qoo3c4"}]]);export{k as default};
+//# sourceMappingURL=6e223934-g1mwcexhosot9qsn.js.map

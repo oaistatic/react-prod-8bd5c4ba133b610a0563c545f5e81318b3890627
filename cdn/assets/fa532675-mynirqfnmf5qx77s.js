@@ -1,0 +1,2 @@
+import{c}from"./f0a0a9e6-e72v481m59zpg0f3.js";import"./2340486e-iyoyluj31h1sa6y8.js";const t=c("Apple",[["path",{d:"M12 20.94c1.5 0 2.75 1.06 4 1.06 3 0 6-8 6-12.22A4.91 4.91 0 0 0 17 5c-2.22 0-4 1.44-5 2-1-.56-2.78-2-5-2a4.9 4.9 0 0 0-5 4.78C2 14 5 22 8 22c1.25 0 2.5-1.06 4-1.06Z",key:"3s7exb"}],["path",{d:"M10 2c1 .5 2 2 2 5",key:"fcco2y"}]]);export{t as default};
+//# sourceMappingURL=fa532675-mynirqfnmf5qx77s.js.map

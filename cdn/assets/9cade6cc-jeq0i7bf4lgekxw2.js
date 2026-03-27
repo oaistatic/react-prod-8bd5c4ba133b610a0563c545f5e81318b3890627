@@ -1,0 +1,2 @@
+import{c as e}from"./f0a0a9e6-e72v481m59zpg0f3.js";import"./2340486e-iyoyluj31h1sa6y8.js";const r=e("MonitorSpeaker",[["path",{d:"M5.5 20H8",key:"1k40s5"}],["path",{d:"M17 9h.01",key:"1j24nn"}],["rect",{width:"10",height:"16",x:"12",y:"4",rx:"2",key:"ixliua"}],["path",{d:"M8 6H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h4",key:"1mp6e1"}],["circle",{cx:"17",cy:"15",r:"1",key:"tqvash"}]]);export{r as default};
+//# sourceMappingURL=9cade6cc-jeq0i7bf4lgekxw2.js.map

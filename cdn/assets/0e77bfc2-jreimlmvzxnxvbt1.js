@@ -1,0 +1,2 @@
+import{c as a}from"./f0a0a9e6-e72v481m59zpg0f3.js";import"./2340486e-iyoyluj31h1sa6y8.js";const p=a("Turtle",[["path",{d:"m12 10 2 4v3a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-3a8 8 0 1 0-16 0v3a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-3l2-4h4Z",key:"1lbbv7"}],["path",{d:"M4.82 7.9 8 10",key:"m9wose"}],["path",{d:"M15.18 7.9 12 10",key:"p8dp2u"}],["path",{d:"M16.93 10H20a2 2 0 0 1 0 4H2",key:"12nsm7"}]]);export{p as default};
+//# sourceMappingURL=0e77bfc2-jreimlmvzxnxvbt1.js.map

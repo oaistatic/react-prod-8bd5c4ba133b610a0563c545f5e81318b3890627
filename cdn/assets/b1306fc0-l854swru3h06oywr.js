@@ -1,0 +1,2 @@
+import{c as a}from"./f0a0a9e6-e72v481m59zpg0f3.js";import"./2340486e-iyoyluj31h1sa6y8.js";const o=a("FolderLock",[["rect",{width:"8",height:"5",x:"14",y:"17",rx:"1",key:"19aais"}],["path",{d:"M10 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v2.5",key:"1w6v7t"}],["path",{d:"M20 17v-2a2 2 0 1 0-4 0v2",key:"pwaxnr"}]]);export{o as default};
+//# sourceMappingURL=b1306fc0-l854swru3h06oywr.js.map

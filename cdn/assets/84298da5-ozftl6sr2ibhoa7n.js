@@ -1,0 +1,2 @@
+import{c as t}from"./f0a0a9e6-e72v481m59zpg0f3.js";const e=t("ChartBar",[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["path",{d:"M7 16h8",key:"srdodz"}],["path",{d:"M7 11h12",key:"127s9w"}],["path",{d:"M7 6h3",key:"w9rmul"}]]),r=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as C,o as b,r as c};
+//# sourceMappingURL=84298da5-ozftl6sr2ibhoa7n.js.map

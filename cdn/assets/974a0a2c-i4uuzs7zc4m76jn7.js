@@ -1,0 +1,2 @@
+import{c as t}from"./f0a0a9e6-e72v481m59zpg0f3.js";const e=t("ChartColumnBig",[["path",{d:"M3 3v16a2 2 0 0 0 2 2h16",key:"c24i48"}],["rect",{x:"15",y:"5",width:"4",height:"12",rx:"1",key:"q8uenq"}],["rect",{x:"7",y:"8",width:"4",height:"9",rx:"1",key:"sr5ea"}]]),o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const a=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as C,a as b,o as c};
+//# sourceMappingURL=974a0a2c-i4uuzs7zc4m76jn7.js.map

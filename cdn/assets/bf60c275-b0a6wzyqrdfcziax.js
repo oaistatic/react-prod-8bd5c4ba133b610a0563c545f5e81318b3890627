@@ -1,0 +1,2 @@
+import{c as o}from"./f0a0a9e6-e72v481m59zpg0f3.js";const e=o("CloudUpload",[["path",{d:"M12 13v8",key:"1l5pq0"}],["path",{d:"M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242",key:"1pljnt"}],["path",{d:"m8 17 4-4 4 4",key:"1quai1"}]]),l=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const a=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as C,l as c,a as u};
+//# sourceMappingURL=bf60c275-b0a6wzyqrdfcziax.js.map

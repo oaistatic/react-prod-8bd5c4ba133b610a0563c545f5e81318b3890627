@@ -1,0 +1,2 @@
+import{j as e,o as s,l as t}from"./2340486e-iyoyluj31h1sa6y8.js";function r(){return e.jsx("div",{className:"flex items-center",children:e.jsx("div",{className:"flex rounded-md bg-orange-300 px-1 text-center text-white dark:bg-orange-800",children:e.jsx("span",{className:"text-[0.5em] leading-4 font-bold",children:e.jsx(s,{...a.scimIndicatorText})})})})}const a=t({scimIndicatorText:{id:"workspaceIdentity.directorySyncResourceTagTitle",defaultMessage:"SCIM"}});export{r as DirectorySyncResourceManagedIndication};
+//# sourceMappingURL=fbf44c55-iwp478mbag6u9wr7.js.map

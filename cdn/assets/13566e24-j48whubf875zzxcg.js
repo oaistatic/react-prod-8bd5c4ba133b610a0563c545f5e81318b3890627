@@ -1,0 +1,2 @@
+import{n3 as s,wS as o,wT as t,wU as r}from"./4813494d-htxz26hq9jzes4ww.js";import{eL as i}from"./1a7ebd5f-l5ppx10xc56cf5jj.js";import{al as a}from"./2340486e-iyoyluj31h1sa6y8.js";function c(){s?.publish(o.SET_WEB_RELEASE_PROPERTIES,{env:"prod",track:"stable",isRestrictedPreview:!1}),s?.registerHostEventListener!==void 0&&s?.registerHostEventListener(e=>{t.publish(e.eventName,e.payload)}),t.subscribe(r.WINDOW_FOCUS_CHANGED,async e=>{window.opener||(a.setFocused(e.isFocused),await i())})}export{c as initDesktop};
+//# sourceMappingURL=13566e24-j48whubf875zzxcg.js.map

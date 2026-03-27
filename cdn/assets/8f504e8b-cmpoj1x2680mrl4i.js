@@ -1,0 +1,2 @@
+import{fL as t,fM as l}from"./1a7ebd5f-l5ppx10xc56cf5jj.js";function a(e){return e==null?!1:l(e)}function f(e,n=t()){if(e==null||!a(e)||e.safety_check_status==="approved")return null;const r=e.safety_scan?.risk_score;return typeof r!="number"||Number.isNaN(r)?null:r>=n.minBlockedSafetyScore?"blocked":r>=n.minWarningSafetyScore?"needsReview":null}export{f as g};
+//# sourceMappingURL=8f504e8b-cmpoj1x2680mrl4i.js.map

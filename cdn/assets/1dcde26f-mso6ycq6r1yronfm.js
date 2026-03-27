@@ -1,0 +1,2 @@
+import{Y as s,c as l,Z as r,r as u}from"./2340486e-iyoyluj31h1sa6y8.js";import{c0 as c}from"./4813494d-htxz26hq9jzes4ww.js";const g=s(function(){"use forget";const t=l.c(5),n=r();let o;t[0]!==n?.email?(o=n?.email?.trim()??null,t[0]=n?.email,t[1]=o):o=t[1];const e=o;let a,i;return t[2]!==e?(a=()=>{c({callbackUrl:"/",skipLoginModal:!0,...e?{additionalAuthParams:{login_hint:e}}:{}})},i=[e],t[2]=e,t[3]=a,t[4]=i):(a=t[3],i=t[4]),u.useEffect(a,i),null});export{g as default};
+//# sourceMappingURL=1dcde26f-mso6ycq6r1yronfm.js.map

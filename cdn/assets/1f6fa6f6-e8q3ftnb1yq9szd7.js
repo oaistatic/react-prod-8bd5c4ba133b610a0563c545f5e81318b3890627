@@ -1,0 +1,2 @@
+function l(i,d){let n;if(d===void 0)for(const e of i)e!=null&&(n<e||n===void 0&&e>=e)&&(n=e);else{let e=-1;for(let f of i)(f=d(f,++e,i))!=null&&(n<f||n===void 0&&f>=f)&&(n=f)}return n}function t(i,d){let n;if(d===void 0)for(const e of i)e!=null&&(n>e||n===void 0&&e>=e)&&(n=e);else{let e=-1;for(let f of i)(f=d(f,++e,i))!=null&&(n>f||n===void 0&&f>=f)&&(n=f)}return n}export{l as a,t as m};
+//# sourceMappingURL=1f6fa6f6-e8q3ftnb1yq9szd7.js.map

@@ -1,0 +1,2 @@
+const e=["B","KB","MB","GB","TB"];function u(n,t){if(t==null||!Number.isFinite(t)||t<0)return null;let i=t,m=0;for(;i>=1024&&m<e.length-1;)i/=1024,m+=1;return`${m===0||Number.isInteger(i)?n.formatNumber(i,{minimumFractionDigits:0,maximumFractionDigits:0}):n.formatNumber(i,{minimumSignificantDigits:3,maximumSignificantDigits:3})} ${e[m]}`}export{u as f};
+//# sourceMappingURL=97399d13-cbfknf2capmro1md.js.map

@@ -1,0 +1,2 @@
+import{Y as c,p as r,r as i}from"./2340486e-iyoyluj31h1sa6y8.js";import{c0 as s}from"./4813494d-htxz26hq9jzes4ww.js";const g=c(function(){const[t]=r(),e=i.useRef(!1);return i.useEffect(()=>{if(e.current)return;e.current=!0;const n=t.get("login_hint"),a=t.get("connection"),o=t.get("callback_path");s({fallbackScreenHint:"login",useFallbackScreenHint:!0,...o?{callbackUrl:o}:void 0,...n||a?{additionalAuthParams:{...n?{login_hint:n}:{},...a?{connection:a}:{}}}:{},skipLoginModal:!0})},[t]),null});export{g as default};
+//# sourceMappingURL=1d1f640a-bfx9it01hs8vg58y.js.map

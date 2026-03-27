@@ -1,0 +1,2 @@
+import{r as e,j as o}from"./2340486e-iyoyluj31h1sa6y8.js";import{ai as s}from"./4813494d-htxz26hq9jzes4ww.js";var i="Label",l=e.forwardRef((r,a)=>o.jsx(s.label,{...r,ref:a,onMouseDown:t=>{t.target.closest("button, input, select, textarea")||(r.onMouseDown?.(t),!t.defaultPrevented&&t.detail>1&&t.preventDefault())}}));l.displayName=i;export{l as L};
+//# sourceMappingURL=1bc04b52-k54g7ix8ztqhndz6.js.map

@@ -1,0 +1,2 @@
+import{Y as i,c as n,Z as h,s as l,r as u}from"./2340486e-iyoyluj31h1sa6y8.js";const p=i(function(){"use forget";const t=n.c(5),e=h(),a=l(),[s,c]=u.useState(!1);let o,r;return t[0]!==e.toPath||t[1]!==s||t[2]!==a?(o=()=>{s||(a(e.toPath,{replace:!0}),c(!0))},r=[s,e.toPath,a],t[0]=e.toPath,t[1]=s,t[2]=a,t[3]=o,t[4]=r):(o=t[3],r=t[4]),u.useEffect(o,r),null});export{p as default};
+//# sourceMappingURL=b34f9557-ey2d9o49u5mx3v69.js.map

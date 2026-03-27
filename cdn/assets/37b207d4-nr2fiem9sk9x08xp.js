@@ -1,0 +1,2 @@
+import{k as i,wi as n,wj as a}from"./4813494d-htxz26hq9jzes4ww.js";const r="3025475441";function g(e){const s=i(r),t=e?.subscriptionStatus.planType;return n(t)?s.get("self_serve_business",!1):a(t)?s.get("enterprise_cbp",!1):!1}const o="2558204672";function l(){const e=i(o);return{perEligibleInviteNumCredits:e.get("per_eligible_invite_num_credits",0),maxTotalNumCredits:e.get("max_total_num_credits",0)}}export{g as i,l as u};
+//# sourceMappingURL=37b207d4-nr2fiem9sk9x08xp.js.map

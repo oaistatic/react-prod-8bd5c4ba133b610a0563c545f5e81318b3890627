@@ -1,0 +1,2 @@
+import{ci as c}from"./4813494d-htxz26hq9jzes4ww.js";const e=c(()=>({rect:null})),g=t=>{if(!t)return e.setState({rect:null});const{height:s,left:n,top:a,width:r}=t.getBoundingClientRect(),{borderRadius:o}=getComputedStyle(t);e.setState({rect:{height:s,left:n,top:a,width:r,borderRadius:o}})};function i(t){if(t)return`textdoc-message-${t}`}export{i as g,g as s,e as u};
+//# sourceMappingURL=54e99289-nl5vyqhyw05in9v5.js.map

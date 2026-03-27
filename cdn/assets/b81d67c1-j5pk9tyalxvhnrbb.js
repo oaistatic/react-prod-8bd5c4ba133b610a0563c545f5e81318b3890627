@@ -1,0 +1,2 @@
+import{c as p}from"./2340486e-iyoyluj31h1sa6y8.js";import{r as u}from"./7f00cfec-lduyilscsbxlsxb0.js";import{bc as c}from"./4813494d-htxz26hq9jzes4ww.js";function C(s){"use forget";const t=p.c(4);let o;t[0]!==s?(o=c(s),t[0]=s,t[1]=o):o=t[1];const r=o;let e;return t[2]!==r?(e=n=>{const{callsiteId:i,...m}=n;return u({callsiteId:i,conversation:r,...m})},t[2]=r,t[3]=e):e=t[3],e}export{C as u};
+//# sourceMappingURL=b81d67c1-j5pk9tyalxvhnrbb.js.map

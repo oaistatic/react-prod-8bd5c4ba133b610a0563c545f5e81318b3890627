@@ -1,0 +1,2 @@
+import{c as r}from"./f0a0a9e6-e72v481m59zpg0f3.js";const e=r("CircleChevronUp",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"m8 14 4-4 4 4",key:"fy2ptz"}]]),c=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const t=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as C,t as a,c};
+//# sourceMappingURL=24359072-fcfyrtdy8g67tyet.js.map

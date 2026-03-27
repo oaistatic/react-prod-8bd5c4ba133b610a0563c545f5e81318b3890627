@@ -1,0 +1,2 @@
+import{j as e}from"./2340486e-iyoyluj31h1sa6y8.js";function s({title:t,description:n}){return e.jsx("div",{className:"flex w-full flex-col items-center justify-center py-48",children:e.jsxs("div",{className:"border-token-border-default flex flex-col items-center justify-center gap-2 rounded-lg border p-24",children:[e.jsx("div",{className:"text-token-text-primary text-sm leading-tight font-medium",children:t}),e.jsx("div",{className:"text-token-text-tertiary text-sm font-normal",children:n})]})})}export{s as E};
+//# sourceMappingURL=6eb96464-mo9dsjdlk26xhool.js.map

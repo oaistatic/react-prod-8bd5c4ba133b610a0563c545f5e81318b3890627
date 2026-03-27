@@ -1,0 +1,2 @@
+import{z as e,A as n}from"./4813494d-htxz26hq9jzes4ww.js";function r(){const s=e(),t=s?.isSelfServeBusiness()??!1,c=s?.isEnterprisey()??!1;return t||c}function o(){return e()?.isPlus()}function a(){return e()?.isPro()}function i(){return e()?.isProlite()}function f(){return e()?.isSelfServeBusiness()}function l(){const s=e();return s?.isFree()||s?.isGo()}function E(){const s=e();return s?.planType===n.DEPRECATED_ENTERPRISE||s?.planType===n.DEPRECATED_EDU}export{o as a,a as b,i as c,E as d,l as e,f,r as u};
+//# sourceMappingURL=e12c8cf3-n7q2b7zbilwutqpq.js.map
